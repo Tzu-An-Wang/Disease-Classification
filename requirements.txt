@@ -1,5 +1,6 @@
-# tensorflow
+tensorflow
 torch
+torchvision
 pandas 
 dvc
 notebook
